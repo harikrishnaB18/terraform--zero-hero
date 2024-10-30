@@ -1,0 +1,160 @@
+                                                            MVR REVIEW
+                                                            ----------
+   
+MVR stands for motor vehicle report which includes details about the driver of the vehicle and past history of the driver like traffic voilation,accident history etc..
+
+MVR DOCUMENT
+------------
+
+3 sections of motor vehicle repoort document
+1. General Information
+2. Miscellaneous and State Specific Information
+3. Driving Record History
+
+4 MVR CRITERIA’S
+---------------
+
+1.Driver’s Age
+2.Driver’s License Status
+3.Driver’s Driving Experience
+4.Driver’s Driving Record History
+
+INSTRUCTION
+-----------
+
+step-1: Has to meet all the criteria if fails meet any one criteria then the driver will be excluded from insurance policy
+step-2: Need to review all the four criteria and if the driver is excluded, then the reason for exclusion has to be mentioned.
+
+Driver’s Age
+------------
+
+1.If Age is < 20 or > = 65 then the driver will be excluded
+2.If Age is > = 21 or <65 then the driver will be included
+3.The Age can be found by comparing the difference of date of birth and policy effective date.
+
+Driver’s License Status 
+-----------------------
+Subdivided into 3 parts 
+-----------------------
+
+1.Valid/Active/Clear/Approved/Qualified
+If any of these is mentioned under the license status, then the driver will be included in the insurance policy
+
+2.Expired/Suspended/Withdraw/Revoked/Invalid/Disqualified/Surrendered/Pend suspended 
+If any of these is mentioned in the MVR, then the driver will be excluded from the policy.
+
+3.Left state/Transferred out of state/Transferred
+If the driver has left from one state to another or transferred then the driver won’t have valid license.
+
+4.Identification Card ( ID )
+If the state field is blank , then refer the CDL status from miscellaneous and state information. 
+
+License Class
+-------------
+
+Types of license     contact list	Vehicle Type
+----------------     ------------       ------------    
+    CDL A	      CLASS A	       Heavy vehicle
+    CDL B	      CLASS B	       Heavy vehicle
+    CDL C	      CLASS C	          Normal
+    CDL D	      CLASS D	          Normal
+    CDL E	      CLASS E	          Normal
+    CDL F	      DRIVER	          Normal
+   OPERATOR	      DRIVER	          Normal
+   CHAUFFER	      DRIVER	          Normal
+
+License Number
+--------------
+
+License number is a unique alphanumeric number.
+3 Tabs to update in Part 1 Procedure Writing
+•Add Contact
+•Driver
+•Personal Classification
+
+Add Contact
+-----------
+
+Step 1: On Add contact tab click on individual
+Step 2: Update first name, middle name and last name of the driver.
+To update first name, middle name and last name we have four scenarios.
+
+Scenario 1 - Comma rule
+-----------------------
+
+If you have comma in the driver's name then the rule did applies.
+The comma rule says the name before comma is the last name and after comma it is first name followed by the middle name.
+Example: Benson Donald Kennith Levi
+
+First Name	Middle Name	Last Name
+
+Donald	       Kennith Levi	 Benson
+
+ First Name	 Middle Name	Last Name
+-----------      -----------    ---------
+   Donald       Kennith Levi    Benson
+
+Scenario 2- Without Comma Rule
+------------------------------
+
+If there is no comma in the driver’s name go to the reference document then refer then refer to page number 4 in the document and as per the state the name will apply.
+Example: Thomas Bruce Allen
+
+
+First Name	Middle Name	Last Name
+
+Thomas	         Bruce	          Allen
+
+  First Name	 	Middle Name		Last Name
+  ---------             -----------             ---------
+    Thomas		   Bruce		  Allen
+
+Scenario 3- Suffix Rule
+-----------------------
+
+The suffix has to be updated along with the last name separated by a comma followed by a space.
+Example: Benson Donald Kennith Jr
+
+First Name	Middle Name	Last Name
+Benson	Donald	Kennith, Jr
+
+Scenario 4- Middle Name Rule
+----------------------------
+
+If first and last name are different from the other drivers name in the list, then have to update the first letter of the middle name.
+Example:
+
+First Name   Middle Name   Last Name
+Thomas	       Bruce	    Allen
+
+Benson	      Donald	    Levi
+David	       Mark	   Cooper
+David	       Lee	   Cooper
+
+If first and last name are same as other drivers in the list then update full middle name
+
+First Name        Middle Name        Last Name
+----------        -----------        ---------
+Thomas	               B	       Allen
+Benson	               D	       Levi
+David	             Mark	       Cooper
+David	             Lee	       Cooper
+
+Step 3: Click policy only.
+
+Drivers
+-------
+
+Step 1: Update the driver's license number.
+The driver's license number will get it from the general information section. Here in this scenario driver's license number is 721020.
+
+Step 2: Update State licensed
+The State licensed number will get it from the general information section. As per the state abbreviation has to be updated in the state licensed. It can be obtained from reference document page number 4 under US state and name order. In this Scenario State license is AL for ALABAMA.
+
+Personal Classification
+-----------------------
+
+•The date of birth should be obtained from the general information .
+•Note: To save contact list save the contact list in desktop and rename it as Contact list-Driver's name.
+For Example: If the driver's name is Thomas then,
+Contact list-Thomas
